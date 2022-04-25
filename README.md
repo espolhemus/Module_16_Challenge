@@ -26,6 +26,7 @@ The purpose of this challenge is to obtain delimited text files related to Amazo
 ![Five Star Non-Vine Reviews](/images/five_star_non_vine_reviews.png)
 
 - Summary and Comparison of Percentage of Five Star Reviews
+
 ![Summary Statistics](/images/summary_statistics.png)
 
 - Based on our analysis, we can conclude that, at least within this product category, and limiting ourselves only to reviews which had a minimum of 20 votes, of which at least 50% had to be rated as 'Helpful', there is not a positivity bias in the reviews - in fact, reviews which were not part of the Vine program were 20% more likely to have resulted in a Five Star rating.
